@@ -3,5 +3,8 @@
   roles:
     - apache
     - packages
+    - php
+    - wordpress 
+    - db
 
     
